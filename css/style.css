@@ -44,8 +44,10 @@ main .titulo p{
 
 }
 main .image{
-    width: 100%;
-    padding: 0px 25px;
+    max-width: 100%;
+    display: block;
+    height: auto;
+    margin: 0 auto;
 }
 main .img-caption{
     font-size: 15px;
