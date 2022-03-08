@@ -22,22 +22,18 @@ main{
 }
 main .titulo{
     width: 100%;
-    border: solid red 1px;
-}
-main .titulo{
     text-align: center;
-    
+    margin-top: 26.8px;
+    margin-bottom: 16px;
 }
+
 main .titulo h1{
-    font-size: 4rem;
+    font-size: 40px;
     margin-bottom: 0;
 }
-main .titulo h2{
-    display: block;
-    margin-block-start: 1em;
-    margin-block-end: 1em;
-    margin-inline-start: 0px;
-    margin-inline-end: 0px;
+main .titulo p{
+    font-size: 16px;
+    margin-top: 16px;
 }
 
 .img-div{
@@ -48,22 +44,17 @@ main .titulo h2{
 
 }
 main .image{
-    border: solid 1px red;
     width: 100%;
     padding: 0px 25px;
 }
 main .img-caption{
-    border: solid 1px red;
     font-size: 15px;
     margin: 15px 0px;
 
 }
-main .tribute-info{
-    border: solid 1px greenyellow;
-}
+
 main .tribute-info ul{
-    border: solid 1px red;
-    max-width: 80%;
+    max-width: 554px;
     margin: 0 auto 50px auto;
     text-align: left;
     line-height: 1.6;
@@ -75,3 +66,23 @@ main .tribute-info ul{
 main .tribute-info ul li{
     margin: 16px;
 }
+.headline{
+    font-size: 18px;
+    margin-top: 30px;
+}
+.citie{
+    font-size: 16px;
+    width: 52%;
+    margin: auto;
+    margin-bottom: 50px;
+}
+.citie p{
+    margin-bottom: 20px;
+    font-size: 1em;
+    
+}
+.tribute-info  h3{
+    font-size: 18.7px;
+    margin-top: 18px;
+}
+
